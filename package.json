@@ -1,7 +1,7 @@
 {
-  "name": "@webeleon/npm-package-starter-typescript",
-  "version": "0.0.8",
-  "description": "starter npm package using typescript",
+  "name": "@webeleon/codingame-api",
+  "version": "0.0.0",
+  "description": "Typescript client for codingame api",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
   "scripts": {
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Webeleon/typecript-npm-package-starter"
+    "url": "git+https://github.com/Webeleon/codingame-api"
   },
   "bugs": {
-    "url": "https://github.com/Webeleon/typecript-npm-package-starter/issues"
+    "url": "https://github.com/Webeleon/codingame-api/issues"
   },
   "contributors": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "keywords": [
-    "project starter",
+    "codingame",
     "webeleon",
     "npm",
     "typescript"
